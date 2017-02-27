@@ -1,0 +1,2 @@
+C:\Users\KaRwTa\Downloads\TilebasedDragAndDrop_corrected\TilebasedDragAndDrop\TilebasedDragAndDropContent\obj\x86\Debug\TilebasedDragAndDropContent.contentprojResolveAssemblyReference.cache
+C:\Users\KaRwTa\Downloads\Board\TilebasedDragAndDrop\TilebasedDragAndDropContent\obj\x86\Debug\TilebasedDragAndDropContent.contentprojResolveAssemblyReference.cache
